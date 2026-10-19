@@ -1,0 +1,161 @@
+[
+  {
+    "package": "@hyzyn/dsh-env@0.3.10",
+    "commit": "7363332f595b8112cb4b601f8723e6453043eb62",
+    "tgz_sha256": "9a36c3f9a4aaa1e0de40a0de227159c97423b20a8251f6f4d585a7e7c7c5cb3c",
+    "registry_integrity_match": true,
+    "files": [
+      {
+        "file": "client.js",
+        "matches_git": true,
+        "sha256": "99ed04c668276783b08cfd4302b2232303e206a95c503f9c15b07807014e6745"
+      },
+      {
+        "file": "lib/index.js",
+        "matches_git": true,
+        "sha256": "69f169f04753fe0bf9e78e0864c5c5b3b7661ec91c98d39edc5508da943e4370"
+      },
+      {
+        "file": "package.json",
+        "matches_git": true,
+        "sha256": "02d9a50d6a25e16078b805d64802878dc8c921a4155da15f96bf3fef33fe761b"
+      },
+      {
+        "file": "lib/index.js.map",
+        "matches_git": true,
+        "sha256": "c1e0b29ac2ffce07fa689cd633f704aacbb00c91be47350fd7214aba826c6ba3"
+      },
+      {
+        "file": "README.en.md",
+        "matches_git": true,
+        "sha256": "c7a893281e5977aedd289eac57327762717bfecb7c29f8c6a67dde8d2ddebdf6"
+      },
+      {
+        "file": "README.md",
+        "matches_git": true,
+        "sha256": "201b4bead8fda3ad387d8a227e0819cc305adfe83c1e1ff5ee7ed3dcc6b5b289"
+      },
+      {
+        "file": "lib/index.d.ts",
+        "matches_git": true,
+        "sha256": "de7eb92a5c9412b3c98ad1bb4306c0f1e4d09569636d4781726efa42bd0ea66b"
+      },
+      {
+        "file": "cordis.patch.yml",
+        "matches_git": true,
+        "sha256": "4e08e824d0042e253cb1a3993a0f0ab1f384b9a40e6f8795781feb31b206ef0b"
+      },
+      {
+        "file": "LICENSE",
+        "matches_git": true,
+        "sha256": "d0b4f4bdd08f8d4082b546f6c3cef86ca714fe3d1be4f36edf4150258d386d66"
+      }
+    ]
+  },
+  {
+    "package": "@hyzyn/dsh-mcp@0.3.6",
+    "commit": "7363332f595b8112cb4b601f8723e6453043eb62",
+    "tgz_sha256": "8289bd13317367deb85eaa734ad9fe535af57b9e6e153ece781abc064d34aca9",
+    "registry_integrity_match": true,
+    "files": [
+      {
+        "file": "client.js",
+        "matches_git": true,
+        "sha256": "0310de51c256fa8eb6d023819f3fb8186504010cb054971423a75dc418df59c6"
+      },
+      {
+        "file": "lib/index.js",
+        "matches_git": true,
+        "sha256": "9eb08baa85a1147df805d7fddef2151392b552f37679709437940f896ae9332a"
+      },
+      {
+        "file": "package.json",
+        "matches_git": true,
+        "sha256": "01fb5bd6a4e55b1b309647fa108c3f26c64cacb82216d61ab733f55849234b0f"
+      },
+      {
+        "file": "lib/index.js.map",
+        "matches_git": true,
+        "sha256": "d57e7be55f2b6d5730b8d6a8acbac10e9f62d0221850bb36f5542c373cc19c3f"
+      },
+      {
+        "file": "README.en.md",
+        "matches_git": true,
+        "sha256": "7e98a5e5099dc3fcc0411267dddb28380c7205f78143d087153f8a8b14c140e2"
+      },
+      {
+        "file": "README.md",
+        "matches_git": true,
+        "sha256": "108755da3bd1387c2def651fa9750ea2f36c7b4211c2864d1a294ee2945d2739"
+      },
+      {
+        "file": "lib/index.d.ts",
+        "matches_git": true,
+        "sha256": "e112b70b2cd05be43ddefaa8fc849619a4920b33ed9da766ddbed581b7680a40"
+      },
+      {
+        "file": "cordis.patch.yml",
+        "matches_git": true,
+        "sha256": "cf9284789e5f49f13a014fa5ce4ff5dc46d8071946c76877d02a6a5a87174bf1"
+      },
+      {
+        "file": "LICENSE",
+        "matches_git": true,
+        "sha256": "d0b4f4bdd08f8d4082b546f6c3cef86ca714fe3d1be4f36edf4150258d386d66"
+      }
+    ]
+  },
+  {
+    "package": "@hyzyn/dsh-profile@0.2.9",
+    "commit": "7363332f595b8112cb4b601f8723e6453043eb62",
+    "tgz_sha256": "71102fc1c9bdabc58c548b1f8e884a94db8127b3d52e5adb33304004c8b5bddd",
+    "registry_integrity_match": true,
+    "files": [
+      {
+        "file": "client.js",
+        "matches_git": true,
+        "sha256": "d66023283b3f6ffab40e222eb8e5f908cf614a3cc0b6991c99ed47e223d88f32"
+      },
+      {
+        "file": "lib/index.js",
+        "matches_git": true,
+        "sha256": "c86bfe19c692ccd358b9f6c7ab2b2548ae4712707647ed38955b4778a52a9be9"
+      },
+      {
+        "file": "package.json",
+        "matches_git": true,
+        "sha256": "10d7eea8248d2a6f4423d2e50f25e1bd3244cba6d56942ad87d6554576d94390"
+      },
+      {
+        "file": "lib/index.js.map",
+        "matches_git": true,
+        "sha256": "e0d3a29b1220e7f3966c1e3d1197eeaef4842368e29aa659d7e5291d9040dec3"
+      },
+      {
+        "file": "README.en.md",
+        "matches_git": true,
+        "sha256": "951029523fd965cca4e1ba0e17aac2d1f006401f640fa5d5c9476352b3e7b43f"
+      },
+      {
+        "file": "README.md",
+        "matches_git": true,
+        "sha256": "d8db908b640abbe6f1ae25ad6e27c05137b957fae214ee2c782df9b898ce72d7"
+      },
+      {
+        "file": "lib/index.d.ts",
+        "matches_git": true,
+        "sha256": "62122b266e027df2d1a88429ff5784822a058b18d32ce5ed792be811e453b4fe"
+      },
+      {
+        "file": "cordis.patch.yml",
+        "matches_git": true,
+        "sha256": "9c56c738cf298ec295095eebd123cff74328645b0e84cca786ad2a2b75f06e52"
+      },
+      {
+        "file": "LICENSE",
+        "matches_git": true,
+        "sha256": "d0b4f4bdd08f8d4082b546f6c3cef86ca714fe3d1be4f36edf4150258d386d66"
+      }
+    ]
+  }
+]

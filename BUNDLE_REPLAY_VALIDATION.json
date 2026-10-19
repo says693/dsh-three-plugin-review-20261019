@@ -1,0 +1,59 @@
+{
+  "utc": "2026-10-19T14:11:41.706951+00:00",
+  "source_zip_sha256": "3e5e8c2ba564467da3de45500f67afdf8909d7d3886d85f2a7c732260c3f1189",
+  "source_manifest_valid": true,
+  "extracted_bundle_replayed": true,
+  "replay_exit": 0,
+  "results": {
+    "env": {
+      "restart": {
+        "pass": 4,
+        "fail": 0,
+        "failed_ids": []
+      },
+      "review": {
+        "pass": 18,
+        "fail": 0,
+        "failed_ids": []
+      },
+      "runtime": {
+        "pass": 12,
+        "fail": 2,
+        "failed_ids": [
+          "runtime-delete-unsets-process-A",
+          "runtime-delete-unsets-process-B"
+        ]
+      },
+      "runtime-restart": {
+        "pass": 6,
+        "fail": 0,
+        "failed_ids": []
+      }
+    },
+    "mcp": {
+      "restart": {
+        "pass": 3,
+        "fail": 0,
+        "failed_ids": []
+      },
+      "review": {
+        "pass": 23,
+        "fail": 0,
+        "failed_ids": []
+      }
+    },
+    "profile": {
+      "restart": {
+        "pass": 4,
+        "fail": 0,
+        "failed_ids": []
+      },
+      "review": {
+        "pass": 34,
+        "fail": 0,
+        "failed_ids": []
+      }
+    }
+  },
+  "boundary": "same Windows machine and existing dependency cache; this is replay of the final extracted ZIP, not a fresh machine installation"
+}
